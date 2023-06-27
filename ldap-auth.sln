@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ldap-auth", "ldap-auth\ldap-auth.csproj", "{46F5A13F-FD95-4CBD-BBB4-CEFF9B2439E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F5A13F-FD95-4CBD-BBB4-CEFF9B2439E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F5A13F-FD95-4CBD-BBB4-CEFF9B2439E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F5A13F-FD95-4CBD-BBB4-CEFF9B2439E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F5A13F-FD95-4CBD-BBB4-CEFF9B2439E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B87A1BC0-A56E-43E8-B037-F3D2DC06899E}
+	EndGlobalSection
+EndGlobal
